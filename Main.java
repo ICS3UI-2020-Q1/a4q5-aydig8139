@@ -23,7 +23,7 @@ public class Main {
     
     System.out.println("Hailstone sequence is the following:");
 
-
+ 
     //create while loop to list the hailstone sequence until the number before 1 
     while(usersNum > 1){
       
